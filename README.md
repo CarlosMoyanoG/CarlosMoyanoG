@@ -1,63 +1,62 @@
 # Carlos Moyano Guevara
 
-👨‍💻 Estudiante de Ingeniería en Ciencias de la Computación  
+👨‍💻 Computer Science Engineering Student  
 📍 Cuenca, Ecuador  
-🎓 Universidad Politécnica Salesiana (certificada por ABET)  
+🎓 Universidad Politécnica Salesiana (ABET-accredited)  
 
 ---
 
-## 👋 Sobre mí
+## 👋 About Me
 
-¡Hola! Soy Carlos Moyano Guevara, estudiante de Ingeniería en Ciencias de la Computación en la Universidad Politécnica Salesiana. Me apasiona la inteligencia artificial, el desarrollo de software y web, así como la ciberseguridad. Siempre estoy en búsqueda de nuevos conocimientos y desafíos que me permitan crecer como profesional en el mundo de la tecnología.
-
----
-
-## 🧠 Intereses
-
-- Inteligencia Artificial 🤖  
-- Desarrollo Web 🌐  
-- Ciberseguridad 🔐  
+Hello! I’m Carlos Moyano Guevara, a Computer Science Engineering student at Universidad Politécnica Salesiana. I am passionate about artificial intelligence, software and web development, as well as cybersecurity. I am constantly seeking new knowledge and challenges that allow me to grow professionally in the technology field.
 
 ---
 
-## 🛠️ Tecnologías
+## 🧠 Interests
 
-- **Lenguajes:** Python, Java, JavaScript (básico), PHP  
+- Artificial Intelligence 🤖  
+- Web Development 🌐  
+- Cybersecurity 🔐  
+
+---
+
+## 🛠️ Technologies
+
+- **Languages:** Python, Java, JavaScript (basic), PHP  
 - **Frontend:** HTML, CSS  
-- **Herramientas:** Git, GitHub  
+- **Tools:** Git, GitHub  
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Featured Projects
 
-### 📦 Sistema de logística para **Colineal**
-Aplicación desarrollada para la gestión de envíos dentro de la empresa, incluyendo:
-- Préstamo de equipos entre sucursales
-- Registro de compras de nuevos equipos
-- Control de logística interna
+### 📦 Logistics System for **Colineal**
+An application developed to manage internal shipments within the company, including:
+- Equipment lending between branches  
+- Registration of new equipment purchases  
+- Internal logistics control  
 
-### 🎓 Proyectos académicos
-Durante mi formación he desarrollado diversos proyectos universitarios enfocados en:
-- Automatización de procesos
-- Interfaces en java funcionales
+### 🎓 Academic Projects
+Throughout my studies, I have developed various university projects focused on:
+- Process automation  
+- Functional Java-based interfaces  
 
-(Próximamente estaré subiendo más proyectos a este repositorio. ¡Mantente al tanto!)
-
----
-
-## 📂 ¿Qué encontrarás en este sitio?
-
-- Portafolio de proyectos
-- Repositorios académicos y personales
-- Información de contacto profesional
+(More projects will be uploaded to this repository soon. Stay tuned!)
 
 ---
 
-## 📫 Contáctame
+## 📂 What You’ll Find Here
+
+- Project portfolio  
+- Academic and personal repositories  
+- Professional contact information  
+
+---
+
+## 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/carlos-moyano-abab542b2)
 
 ---
 
-> *“El aprendizaje continuo es la clave para la innovación.”*
-
+> *“Continuous learning is the key to innovation.”*
