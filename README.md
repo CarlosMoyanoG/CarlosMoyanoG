@@ -1,62 +1,82 @@
 # Carlos Moyano Guevara
 
-👨‍💻 Computer Science Engineering Student  
+👨‍💻 Software Engineer | Backend & Database-Oriented  
 📍 Cuenca, Ecuador  
-🎓 Universidad Politécnica Salesiana (ABET-accredited)  
+🎓 Computer Science Engineering – Universidad Politécnica Salesiana (ABET-accredited)  
 
 ---
 
 ## 👋 About Me
 
-Hello! I’m Carlos Moyano Guevara, a Computer Science Engineering student at Universidad Politécnica Salesiana. I am passionate about artificial intelligence, software and web development, as well as cybersecurity. I am constantly seeking new knowledge and challenges that allow me to grow professionally in the technology field.
+Hi! I’m Carlos Moyano Guevara, a Computer Science Engineering student with a strong focus on **backend development, database-driven systems, and API-based architectures**.
+
+I have hands-on experience designing and building **RESTful APIs**, developing backend services using **FastAPI, Spring Boot, and WildFly**, and integrating them with **Angular frontends**. I work extensively with **PostgreSQL**, focusing on schema design, query optimization, and data integrity, and I also use **Redis** for caching and performance improvement.
+
+I’m comfortable owning features end-to-end: from data modeling and backend logic to integration and documentation. I work fluently in **English** in technical environments, including documentation, meetings, and collaboration.
 
 ---
 
-## 🧠 Interests
+## 🧠 Technical Interests
 
-- Artificial Intelligence 🤖  
-- Web Development 🌐  
-- Cybersecurity 🔐  
+- Backend & Software Engineering  
+- Database Systems & Performance Optimization  
+- API Design & System Architecture  
+- Cloud & Production-Oriented Systems  
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Technical Stack
 
-- **Languages:** Python, Java, JavaScript (basic), PHP  
-- **Frontend:** HTML, CSS  
-- **Tools:** Git, GitHub  
+- **Languages:** Python, Java, PHP, JavaScript  
+- **Backend:** FastAPI, Spring Boot, WildFly  
+- **Frontend:** Angular, HTML, CSS  
+- **Databases:** PostgreSQL, Redis, Oracle APEX  
+- **Tools & Platforms:** Git, GitHub, Linux-based environments  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📦 Logistics System for **Colineal**
-An application developed to manage internal shipments within the company, including:
-- Equipment lending between branches  
-- Registration of new equipment purchases  
-- Internal logistics control  
+### 📦 Internal Logistics & Shipment System — *Colineal Corp.*
 
-### 🎓 Academic Projects
-Throughout my studies, I have developed various university projects focused on:
-- Process automation  
-- Functional Java-based interfaces  
+Backend-focused web application developed to manage internal logistics operations, including:
 
-(More projects will be uploaded to this repository soon. Stay tuned!)
+- Internal shipment and equipment transfer tracking  
+- Equipment purchase registration and traceability  
+- Backend logic and data validation  
+- PostgreSQL-based relational data model  
+
+**Tech stack:** PHP, Laravel, PostgreSQL  
 
 ---
 
-## 📂 What You’ll Find Here
+### 🔧 Backend & API-Centric Academic Projects
 
-- Project portfolio  
-- Academic and personal repositories  
-- Professional contact information  
+A collection of academic and personal projects focused on backend systems and APIs, including:
+
+- RESTful API development using **FastAPI** and **Spring Boot**  
+- Java backend services deployed on **WildFly**  
+- Angular frontend integration with backend APIs  
+- PostgreSQL schema design and SQL optimization  
+- Redis usage for caching and performance scenarios  
+
+(More production-oriented projects are continuously being added.)
 
 ---
 
-## 📫 Contact Me
+## 📂 What You’ll Find in This GitHub
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/carlos-moyano-abab542b2)
+- Backend-focused repositories  
+- API-driven and database-centric projects  
+- Academic and personal software engineering work  
+- Clean, documented, and structured codebases  
 
 ---
 
-> *“Continuous learning is the key to innovation.”*
+## 📫 Contact
+
+- 💼 LinkedIn: [Carlos Moyano Guevara](https://www.linkedin.com/in/carlos-moyano-abab542b2)
+
+---
+
+> *“Build systems that are correct, observable, and easy to evolve.”*
