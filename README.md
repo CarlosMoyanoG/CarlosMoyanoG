@@ -1,38 +1,33 @@
-# Carlos Moyano Guevara
+# Hi, I'm Carlos 👋
 
-Software Developer focused on backend systems, APIs, databases, and business-process automation.
+**Software Developer · Backend, APIs & Database Systems**
 
-Based in **Cuenca, Ecuador**, and currently studying **Computer Science Engineering at Universidad Politécnica Salesiana**. I am in my seventh semester and expect to graduate in July 2027.
+📍 Cuenca, Ecuador  
+🎓 Computer Science Engineering student at Universidad Politécnica Salesiana  
+💼 Currently working on production systems for healthcare, financial, and administrative environments
+
+---
 
 ## About Me
 
-I build software that connects business processes, data, and external services.
+I enjoy building software that connects **business processes, data, and external services**.
 
-My current professional experience includes developing production systems for healthcare, financial, and administrative environments with **Oracle APEX**, **PL/SQL**, **REST APIs**, **Java**, **Python**, and **PHP/Laravel**.
+My strongest areas are backend development, database-driven applications, API integration, Oracle APEX, PL/SQL, and distributed systems. I also like experimenting with DevOps, Kubernetes, CI/CD, and applied machine learning.
 
-At Compusistemas SAS, I have worked on:
+I am currently in my seventh semester and expect to graduate in **July 2027**.
 
-- Migrating business messaging workflows to the official **Meta WhatsApp Cloud API**
-- Building a data-protection and consent-management platform from the ground up
-- Developing healthcare, billing, scheduling, reporting, and administrative modules
-- Integrating external services and internal systems through REST APIs
-- Supporting electronic invoicing and Ecuadorian SRI-related workflows
-- Diagnosing production issues and improving SQL and PL/SQL logic
-
-I am especially interested in backend engineering, distributed systems, database-oriented applications, DevOps, and applied machine learning.
+---
 
 ## Technical Focus
 
-- Backend development
-- REST API design and integration
-- Relational database modelling
-- Caching and performance optimisation with Redis
-- Oracle APEX and PL/SQL
-- Distributed systems
-- Containerisation and Kubernetes
-- CI/CD pipelines
-- Applied machine learning
-- Business-process automation
+- ⚙️ Backend development and REST APIs
+- 🗄️ Relational databases and query optimisation
+- 🔗 System integration and business-process automation
+- ☁️ Containers, Kubernetes, and CI/CD
+- 🧠 Applied machine learning
+- 🚀 Production-oriented software development
+
+---
 
 ## Technical Stack
 
@@ -48,205 +43,111 @@ I am especially interested in backend engineering, distributed systems, database
 
 `Angular` `HTML` `CSS` `Java Swing`
 
-### Databases
+### Databases and Data
 
-`Oracle Database` `PostgreSQL` `MySQL` `Redis`
+`Oracle Database` `PostgreSQL` `MySQL` `Redis` `pandas` `NumPy`
 
-### Platforms and DevOps
+### DevOps and Platforms
 
 `Oracle APEX` `Git` `GitHub Actions` `Docker` `Kubernetes` `K3s` `Trivy` `WildFly` `Maven` `Firebase`
 
-### Machine Learning and Data
+### Machine Learning
 
-`XGBoost` `ONNX Runtime` `scikit-learn` `pandas` `NumPy` `Streamlit` `Plotly`
+`XGBoost` `ONNX Runtime` `scikit-learn` `Streamlit` `Plotly`
 
-## Featured Projects
+---
 
-### Multi-Backend Developer Advisory Platform
+## What You'll Find Here
 
-A distributed full-stack platform where users can discover developers, review portfolios, manage availability, and schedule technical advisory sessions.
+This profile is a mix of backend systems, distributed applications, DevOps experiments, academic projects, and a bit of machine learning.
 
-The system includes:
+### 🌐 Multi-Backend Portfolio Platform
 
-- An Angular frontend
-- A Jakarta EE backend deployed on WildFly
-- A Spring Boot backend
-- A FastAPI backend
+A distributed platform built with:
+
+- Angular
+- Jakarta EE
+- Spring Boot
+- FastAPI
+- PostgreSQL
 - Firebase authentication
-- Role-based application flows
-- PostgreSQL persistence
-- Portfolio, scheduling, availability, advisory, reporting, and administration modules
+
+It includes portfolios, users, roles, advisory scheduling, availability, administration, and reporting.
 
 Repositories:
 
-- [Angular Frontend](https://github.com/CarlosMoyanoG/FrontEnd-GestionPortafolios)
-- [Spring Boot Backend](https://github.com/CarlosMoyanoG/BackEnd-GestionPortafolios-Sping)
-- [Jakarta EE Backend](https://github.com/CarlosMoyanoG/BackEnd-GestionPortafolios-Jakarta)
-- [FastAPI Backend](https://github.com/CarlosMoyanoG/BackEnd-GestionPortafolios-FastApi)
+- [Frontend](https://github.com/CarlosMoyanoG/FrontEnd-GestionPortafolios)
+- [Spring Boot API](https://github.com/CarlosMoyanoG/BackEnd-GestionPortafolios-Sping)
+- [Jakarta EE API](https://github.com/CarlosMoyanoG/BackEnd-GestionPortafolios-Jakarta)
+- [FastAPI API](https://github.com/CarlosMoyanoG/BackEnd-GestionPortafolios-FastApi)
 
----
+### ☸️ Kubernetes and Distributed Systems
 
-### Kubernetes Ticket Reservation System
+Projects focused on:
 
-A distributed ticket-reservation system deployed on a multi-node K3s cluster.
-
-The project demonstrates:
-
+- Multi-node K3s clusters
 - Microservice communication
-- API Gateway routing
+- Readiness and liveness probes
 - Persistent storage
-- Pod anti-affinity
-- Readiness and liveness probes
-- Resource limits
-- Timeouts and retries
-- Compensating actions
-- Circuit breaker
-- Bulkhead isolation
-- Graceful degradation
-- Chaos-engineering scenarios
+- Circuit breakers
+- Retries and compensation
+- Chaos engineering
+- Canary and rolling deployments
 
-Repository:
+Featured repositories:
 
-- [k8s-ticket-system](https://github.com/CarlosMoyanoG/k8s-ticket-system)
+- [Kubernetes Ticket System](https://github.com/CarlosMoyanoG/k8s-ticket-system)
+- [Inventory App with CI/CD](https://github.com/CarlosMoyanoG/Inventario-App-Ci-Cd)
 
----
+### 🤖 Retail Demand Forecasting
 
-### Inventory Application — CI/CD and Kubernetes
+A collaborative machine-learning project that combines:
 
-A Node.js inventory application created to demonstrate automated delivery and Kubernetes deployment strategies.
-
-The project includes:
-
-- Automated tests
-- Multi-stage Docker builds
-- GitHub Actions
-- Trivy vulnerability scanning
-- GitHub Container Registry
-- Kubernetes Secrets
-- Readiness and liveness probes
-- Rolling updates
-- Stable and canary deployments
-
-Repository:
-
-- [Inventario-App-Ci-Cd](https://github.com/CarlosMoyanoG/Inventario-App-Ci-Cd)
-
----
-
-### AI-Powered Retail Demand Forecasting
-
-A collaborative machine-learning project for forecasting product demand and generating inventory replenishment recommendations.
-
-The project includes:
-
-- XGBoost regression
-- Calendar, lag, and rolling-window features
-- Recursive multi-day forecasting
-- ONNX model export and inference
-- Streamlit dashboard
-- Plotly visualisations
-- Inventory and safety-stock recommendations
+- XGBoost
+- Time-series feature engineering
+- ONNX model inference
+- Streamlit
+- Plotly
+- Inventory replenishment recommendations
 
 Repository:
 
 - [Prediccion-Retail](https://github.com/CarlosMoyanoG/Prediccion-Retail)
 
----
+### 🪑 Java Desktop Application
 
-### MuebleriaCP
-
-A Java Swing desktop application for managing the administrative and operational workflows of a furniture business.
-
-The system includes:
-
-- Customers
-- Suppliers
-- Employees
-- Products
-- Inventory
-- Supplier purchases
-- Sales invoicing
-- Authentication
-- Role-based permissions
-- Automatic stock updates
-- Invoice cancellation and stock restoration
+A Java Swing application for managing customers, suppliers, inventory, purchases, invoices, authentication, and permissions in a furniture business.
 
 Repository:
 
 - [MuebleriaCP](https://github.com/CarlosMoyanoG/MuebleriaCP)
 
-## Professional Experience
-
-### Compusistemas SAS — Software Developer
-
-**February 2026 — Present**
-
-Part-time software-development role focused on production systems for healthcare, financial, and administrative operations.
-
-Key contributions include:
-
-- Migrated business messaging workflows to the official Meta WhatsApp Cloud API
-- Supported more than 3,500 delivered messages with an 83% read rate during a recent 90-day period
-- Designed and developed a data-protection and consent-management platform
-- Built Oracle APEX and PL/SQL modules for clinical and administrative processes
-- Integrated internal systems with external REST services
-- Contributed to electronic invoicing and SRI-related workflows
-
-### Colineal Corp. — Systems Intern
-
-**October 2024 — May 2025**
-
-Developed an internal shipment and package-tracking platform with PHP, Laravel, and MySQL.
-
-The system included:
-
-- Package registration
-- Shipment creation
-- QR-code generation and scanning
-- Delivery tracking
-- Reception confirmation
-- Returns
-- User administration
-- Role-based permissions
-
-The source code is not publicly available because the project is proprietary to Colineal Corp.
-
-## Education
-
-**Universidad Politécnica Salesiana**  
-Computer Science Engineering  
-Expected graduation: **July 2027**
-
-Relevant areas of study:
-
-- Data Structures and Algorithms
-- Databases
-- Object-Oriented Programming
-- Operating Systems
-- Computer Networks
-- Distributed Systems
-- Web Development
-
-## Languages
-
-- Spanish — Native
-- English — B2, Cambridge First Certificate
-
-## Achievement
-
-- Second place in a university-level Artificial Intelligence Hackathon
+---
 
 ## Current Goals
 
-I am currently focused on:
+Right now, I am focused on:
 
-- Strengthening backend and distributed-systems skills
-- Improving deployment and cloud-native practices
-- Building better-documented public repositories
-- Expanding my experience with production-ready APIs
+- Building stronger backend and distributed-systems skills
+- Improving cloud-native and deployment practices
+- Creating cleaner and better-documented repositories
+- Learning more about software architecture and observability
 - Applying machine learning to practical business problems
+- Turning academic projects into portfolio-ready work
 
-## Contact
+---
+
+## A Few Things About Me
+
+- I like understanding how systems behave beyond the happy path.
+- I enjoy working with databases and business logic.
+- I care about clean documentation almost as much as working code.
+- I am comfortable learning new frameworks when a project requires it.
+- I speak Spanish natively and English at a B2 level.
+
+---
+
+## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/carlos-moyano-guevara/)
 - [GitHub](https://github.com/CarlosMoyanoG)
